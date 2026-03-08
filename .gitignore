@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Dart / Flutter tool artifacts
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Mason cache (local)
+.mason/
+
+# Logs
+*.log
